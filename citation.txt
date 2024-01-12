@@ -1,0 +1,8 @@
+@inproceedings{REPO154,
+    author = "Irshad, Muhammad Zubair and Kollar, Thomas and Laskey, Michael and Stone, Kevin and Kira, Zsolt",
+    booktitle = "2022 International Conference on Robotics and Automation (ICRA)",
+    organization = "IEEE",
+    pages = "10632--10640",
+    title = "{CenterSnap:Single-Shot Multi-Object 3D Shape Reconstruction and Categorical 6D Pose and Size Estimation}",
+    year = "2022"
+}
